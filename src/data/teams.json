@@ -1,0 +1,626 @@
+[
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "code": "MEX",
+    "group": "A",
+    "colors": {
+      "primary": "#006847",
+      "secondary": "#CE1126",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇲🇽"
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "code": "RSA",
+    "group": "A",
+    "colors": {
+      "primary": "#007847",
+      "secondary": "#FFB612",
+      "text": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "flag": "🇿🇦"
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "code": "KOR",
+    "group": "A",
+    "colors": {
+      "primary": "#CD2E3A",
+      "secondary": "#0047A0",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇰🇷"
+  },
+  {
+    "id": "uefa-playoff-d",
+    "name": "UEFA Playoff D Winner",
+    "code": "TBD",
+    "group": "A",
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🏳️"
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "code": "CAN",
+    "group": "B",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇨🇦"
+  },
+  {
+    "id": "uefa-playoff-a",
+    "name": "UEFA Playoff A Winner",
+    "code": "TBD",
+    "group": "B",
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🏳️"
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "code": "QAT",
+    "group": "B",
+    "colors": {
+      "primary": "#8A1538",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇶🇦"
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "code": "SUI",
+    "group": "B",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇨🇭"
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "code": "BRA",
+    "group": "C",
+    "colors": {
+      "primary": "#FFDF00",
+      "secondary": "#009739",
+      "text": "#009739",
+      "accent": "#002776"
+    },
+    "flag": "🇧🇷"
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "code": "MAR",
+    "group": "C",
+    "colors": {
+      "primary": "#C1272D",
+      "secondary": "#006233",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇲🇦"
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "code": "COL",
+    "group": "C",
+    "colors": {
+      "primary": "#FCD116",
+      "secondary": "#003893",
+      "text": "#003893",
+      "accent": "#CE1126"
+    },
+    "flag": "🇨🇴"
+  },
+  {
+    "id": "curacao",
+    "name": "Curaçao",
+    "code": "CUW",
+    "group": "C",
+    "colors": {
+      "primary": "#003DA5",
+      "secondary": "#FFD100",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇨🇼"
+  },
+  {
+    "id": "usa",
+    "name": "United States",
+    "code": "USA",
+    "group": "D",
+    "colors": {
+      "primary": "#002868",
+      "secondary": "#BF0A30",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇺🇸"
+  },
+  {
+    "id": "uefa-playoff-c",
+    "name": "UEFA Playoff C Winner",
+    "code": "TBD",
+    "group": "D",
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🏳️"
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "code": "PAR",
+    "group": "D",
+    "colors": {
+      "primary": "#DA121A",
+      "secondary": "#0038A8",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇵🇾"
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "code": "AUS",
+    "group": "D",
+    "colors": {
+      "primary": "#FFCD00",
+      "secondary": "#00843D",
+      "text": "#00843D",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇦🇺"
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "code": "ARG",
+    "group": "E",
+    "colors": {
+      "primary": "#75AADB",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "flag": "🇦🇷"
+  },
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "code": "ALG",
+    "group": "E",
+    "colors": {
+      "primary": "#006233",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇩🇿"
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "code": "AUT",
+    "group": "E",
+    "colors": {
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇦🇹"
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "code": "JOR",
+    "group": "E",
+    "colors": {
+      "primary": "#007A33",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "flag": "🇯🇴"
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "code": "ESP",
+    "group": "F",
+    "colors": {
+      "primary": "#AA151B",
+      "secondary": "#F1BF00",
+      "text": "#F1BF00",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇪🇸"
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "code": "URU",
+    "group": "F",
+    "colors": {
+      "primary": "#5CBFEB",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "flag": "🇺🇾"
+  },
+  {
+    "id": "uefa-playoff-b",
+    "name": "UEFA Playoff B Winner",
+    "code": "TBD",
+    "group": "F",
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🏳️"
+  },
+  {
+    "id": "cape-verde",
+    "name": "Cape Verde",
+    "code": "CPV",
+    "group": "F",
+    "colors": {
+      "primary": "#003893",
+      "secondary": "#CF2027",
+      "text": "#FFFFFF",
+      "accent": "#FCD116"
+    },
+    "flag": "🇨🇻"
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "code": "BEL",
+    "group": "G",
+    "colors": {
+      "primary": "#ED2939",
+      "secondary": "#000000",
+      "text": "#FDDA24",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇧🇪"
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "code": "EGY",
+    "group": "G",
+    "colors": {
+      "primary": "#C8102E",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#000000"
+    },
+    "flag": "🇪🇬"
+  },
+  {
+    "id": "bolivia",
+    "name": "Bolivia",
+    "code": "BOL",
+    "group": "G",
+    "colors": {
+      "primary": "#007A33",
+      "secondary": "#FFD100",
+      "text": "#FFFFFF",
+      "accent": "#D52B1E"
+    },
+    "flag": "🇧🇴"
+  },
+  {
+    "id": "intercontinental-playoff-2",
+    "name": "Intercontinental Playoff 2 Winner",
+    "code": "TBD",
+    "group": "G",
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🏳️"
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "code": "GER",
+    "group": "H",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#DD0000"
+    },
+    "flag": "🇩🇪"
+  },
+  {
+    "id": "cameroon",
+    "name": "Cameroon",
+    "code": "CMR",
+    "group": "H",
+    "colors": {
+      "primary": "#007A5E",
+      "secondary": "#CE1126",
+      "text": "#FCD116",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇨🇲"
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "code": "ECU",
+    "group": "H",
+    "colors": {
+      "primary": "#FFD100",
+      "secondary": "#034EA2",
+      "text": "#034EA2",
+      "accent": "#CE1126"
+    },
+    "flag": "🇪🇨"
+  },
+  {
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "code": "UZB",
+    "group": "H",
+    "colors": {
+      "primary": "#1EB53A",
+      "secondary": "#0099B5",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇺🇿"
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "code": "FRA",
+    "group": "I",
+    "colors": {
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#ED2939"
+    },
+    "flag": "🇫🇷"
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "code": "NOR",
+    "group": "I",
+    "colors": {
+      "primary": "#BA0C2F",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#00205B"
+    },
+    "flag": "🇳🇴"
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "code": "SEN",
+    "group": "I",
+    "colors": {
+      "primary": "#00853F",
+      "secondary": "#FDEF42",
+      "text": "#FFFFFF",
+      "accent": "#E31B23"
+    },
+    "flag": "🇸🇳"
+  },
+  {
+    "id": "intercontinental-playoff-1",
+    "name": "Intercontinental Playoff 1 Winner",
+    "code": "TBD",
+    "group": "I",
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🏳️"
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "code": "POR",
+    "group": "J",
+    "colors": {
+      "primary": "#006600",
+      "secondary": "#FF0000",
+      "text": "#FFFFFF",
+      "accent": "#FFD100"
+    },
+    "flag": "🇵🇹"
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "code": "NED",
+    "group": "J",
+    "colors": {
+      "primary": "#FF6600",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#00247D"
+    },
+    "flag": "🇳🇱"
+  },
+  {
+    "id": "cote-divoire",
+    "name": "Côte d'Ivoire",
+    "code": "CIV",
+    "group": "J",
+    "colors": {
+      "primary": "#FF8200",
+      "secondary": "#009A44",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇨🇮"
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "code": "JPN",
+    "group": "J",
+    "colors": {
+      "primary": "#000080",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#BC002D"
+    },
+    "flag": "🇯🇵"
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "code": "ENG",
+    "group": "K",
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#002366",
+      "text": "#002366",
+      "accent": "#C8102E"
+    },
+    "flag": "🏴"
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "code": "CRO",
+    "group": "K",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#171796"
+    },
+    "flag": "🇭🇷"
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "code": "GHA",
+    "group": "K",
+    "colors": {
+      "primary": "#006B3F",
+      "secondary": "#FCD116",
+      "text": "#FFFFFF",
+      "accent": "#CE1126"
+    },
+    "flag": "🇬🇭"
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "code": "PAN",
+    "group": "K",
+    "colors": {
+      "primary": "#DA121A",
+      "secondary": "#005EB8",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇵🇦"
+  },
+  {
+    "id": "italy",
+    "name": "Italy",
+    "code": "ITA",
+    "group": "L",
+    "colors": {
+      "primary": "#008C45",
+      "secondary": "#CD212A",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇮🇹"
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "code": "IRN",
+    "group": "L",
+    "colors": {
+      "primary": "#239F40",
+      "secondary": "#DA0000",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇮🇷"
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "code": "TUN",
+    "group": "L",
+    "colors": {
+      "primary": "#E70013",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#FFFFFF"
+    },
+    "flag": "🇹🇳"
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "code": "NZL",
+    "group": "L",
+    "colors": {
+      "primary": "#1B365D",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF",
+      "accent": "#CC142B"
+    },
+    "flag": "🇳🇿"
+  }
+]

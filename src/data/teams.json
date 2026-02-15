@@ -1,0 +1,618 @@
+[
+  {
+    "id": "mexico",
+    "name": "Mexico",
+    "code": "MEX",
+    "group": "A",
+    "flag": "🇲🇽",
+    "colors": {
+      "primary": "#006847",
+      "secondary": "#CE1126",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "south-africa",
+    "name": "South Africa",
+    "code": "RSA",
+    "group": "A",
+    "flag": "🇿🇦",
+    "colors": {
+      "primary": "#007749",
+      "secondary": "#FFB81C",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "south-korea",
+    "name": "South Korea",
+    "code": "KOR",
+    "group": "A",
+    "flag": "🇰🇷",
+    "colors": {
+      "primary": "#CD2E3A",
+      "secondary": "#0047A0",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "uefa-playoff-d",
+    "name": "UEFA Playoff D",
+    "code": "TBD",
+    "group": "A",
+    "flag": "🏳️",
+    "placeholder": true,
+    "possibleTeams": [
+      "Denmark",
+      "Czech Republic",
+      "Ireland",
+      "North Macedonia"
+    ],
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "canada",
+    "name": "Canada",
+    "code": "CAN",
+    "group": "B",
+    "flag": "🇨🇦",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "uefa-playoff-a",
+    "name": "UEFA Playoff A",
+    "code": "TBD",
+    "group": "B",
+    "flag": "🏳️",
+    "placeholder": true,
+    "possibleTeams": [
+      "Italy",
+      "Northern Ireland",
+      "Wales",
+      "Bosnia"
+    ],
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "qatar",
+    "name": "Qatar",
+    "code": "QAT",
+    "group": "B",
+    "flag": "🇶🇦",
+    "colors": {
+      "primary": "#8A1538",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "switzerland",
+    "name": "Switzerland",
+    "code": "SUI",
+    "group": "B",
+    "flag": "🇨🇭",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "brazil",
+    "name": "Brazil",
+    "code": "BRA",
+    "group": "C",
+    "flag": "🇧🇷",
+    "colors": {
+      "primary": "#FFDF00",
+      "secondary": "#009739",
+      "text": "#009739"
+    }
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "code": "MAR",
+    "group": "C",
+    "flag": "🇲🇦",
+    "colors": {
+      "primary": "#C1272D",
+      "secondary": "#006233",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "scotland",
+    "name": "Scotland",
+    "code": "SCO",
+    "group": "C",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "colors": {
+      "primary": "#003078",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "haiti",
+    "name": "Haiti",
+    "code": "HAI",
+    "group": "C",
+    "flag": "🇭🇹",
+    "colors": {
+      "primary": "#00209F",
+      "secondary": "#D21034",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "usa",
+    "name": "USA",
+    "code": "USA",
+    "group": "D",
+    "flag": "🇺🇸",
+    "colors": {
+      "primary": "#002868",
+      "secondary": "#BF0A30",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "uefa-playoff-c",
+    "name": "UEFA Playoff C",
+    "code": "TBD",
+    "group": "D",
+    "flag": "🏳️",
+    "placeholder": true,
+    "possibleTeams": [
+      "Turkey",
+      "Romania",
+      "Slovakia",
+      "Kosovo"
+    ],
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "paraguay",
+    "name": "Paraguay",
+    "code": "PAR",
+    "group": "D",
+    "flag": "🇵🇾",
+    "colors": {
+      "primary": "#DA121A",
+      "secondary": "#0038A8",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "australia",
+    "name": "Australia",
+    "code": "AUS",
+    "group": "D",
+    "flag": "🇦🇺",
+    "colors": {
+      "primary": "#FFCD00",
+      "secondary": "#00843D",
+      "text": "#00843D"
+    }
+  },
+  {
+    "id": "germany",
+    "name": "Germany",
+    "code": "GER",
+    "group": "E",
+    "flag": "🇩🇪",
+    "colors": {
+      "primary": "#000000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "ecuador",
+    "name": "Ecuador",
+    "code": "ECU",
+    "group": "E",
+    "flag": "🇪🇨",
+    "colors": {
+      "primary": "#FFD100",
+      "secondary": "#034EA2",
+      "text": "#034EA2"
+    }
+  },
+  {
+    "id": "ivory-coast",
+    "name": "Côte d'Ivoire",
+    "code": "CIV",
+    "group": "E",
+    "flag": "🇨🇮",
+    "colors": {
+      "primary": "#FF8200",
+      "secondary": "#009A44",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "curacao",
+    "name": "Curaçao",
+    "code": "CUW",
+    "group": "E",
+    "flag": "🇨🇼",
+    "colors": {
+      "primary": "#003DA5",
+      "secondary": "#FFD100",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "netherlands",
+    "name": "Netherlands",
+    "code": "NED",
+    "group": "F",
+    "flag": "🇳🇱",
+    "colors": {
+      "primary": "#FF6600",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "japan",
+    "name": "Japan",
+    "code": "JPN",
+    "group": "F",
+    "flag": "🇯🇵",
+    "colors": {
+      "primary": "#000080",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "tunisia",
+    "name": "Tunisia",
+    "code": "TUN",
+    "group": "F",
+    "flag": "🇹🇳",
+    "colors": {
+      "primary": "#CE1126",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "uefa-playoff-b",
+    "name": "UEFA Playoff B",
+    "code": "TBD",
+    "group": "F",
+    "flag": "🏳️",
+    "placeholder": true,
+    "possibleTeams": [
+      "Ukraine",
+      "Sweden",
+      "Poland",
+      "Albania"
+    ],
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "belgium",
+    "name": "Belgium",
+    "code": "BEL",
+    "group": "G",
+    "flag": "🇧🇪",
+    "colors": {
+      "primary": "#ED2939",
+      "secondary": "#000000",
+      "text": "#FDDA24"
+    }
+  },
+  {
+    "id": "iran",
+    "name": "Iran",
+    "code": "IRN",
+    "group": "G",
+    "flag": "🇮🇷",
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#DA0000",
+      "text": "#239F40"
+    }
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "code": "EGY",
+    "group": "G",
+    "flag": "🇪🇬",
+    "colors": {
+      "primary": "#C8102E",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "new-zealand",
+    "name": "New Zealand",
+    "code": "NZL",
+    "group": "G",
+    "flag": "🇳🇿",
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000",
+      "text": "#000000"
+    }
+  },
+  {
+    "id": "spain",
+    "name": "Spain",
+    "code": "ESP",
+    "group": "H",
+    "flag": "🇪🇸",
+    "colors": {
+      "primary": "#AA151B",
+      "secondary": "#F1BF00",
+      "text": "#F1BF00"
+    }
+  },
+  {
+    "id": "uruguay",
+    "name": "Uruguay",
+    "code": "URU",
+    "group": "H",
+    "flag": "🇺🇾",
+    "colors": {
+      "primary": "#5CBFEB",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "saudi-arabia",
+    "name": "Saudi Arabia",
+    "code": "KSA",
+    "group": "H",
+    "flag": "🇸🇦",
+    "colors": {
+      "primary": "#006C35",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "cape-verde",
+    "name": "Cape Verde",
+    "code": "CPV",
+    "group": "H",
+    "flag": "🇨🇻",
+    "colors": {
+      "primary": "#003893",
+      "secondary": "#CF2027",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "france",
+    "name": "France",
+    "code": "FRA",
+    "group": "I",
+    "flag": "🇫🇷",
+    "colors": {
+      "primary": "#002395",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "code": "SEN",
+    "group": "I",
+    "flag": "🇸🇳",
+    "colors": {
+      "primary": "#00853F",
+      "secondary": "#FDEF42",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "norway",
+    "name": "Norway",
+    "code": "NOR",
+    "group": "I",
+    "flag": "🇳🇴",
+    "colors": {
+      "primary": "#BA0C2F",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "intercon-playoff-2",
+    "name": "Intercon. Playoff",
+    "code": "TBD",
+    "group": "I",
+    "flag": "🏳️",
+    "placeholder": true,
+    "possibleTeams": [
+      "Iraq",
+      "Bolivia",
+      "Suriname"
+    ],
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "argentina",
+    "name": "Argentina",
+    "code": "ARG",
+    "group": "J",
+    "flag": "🇦🇷",
+    "colors": {
+      "primary": "#75AADB",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "algeria",
+    "name": "Algeria",
+    "code": "ALG",
+    "group": "J",
+    "flag": "🇩🇿",
+    "colors": {
+      "primary": "#006233",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "austria",
+    "name": "Austria",
+    "code": "AUT",
+    "group": "J",
+    "flag": "🇦🇹",
+    "colors": {
+      "primary": "#ED2939",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "jordan",
+    "name": "Jordan",
+    "code": "JOR",
+    "group": "J",
+    "flag": "🇯🇴",
+    "colors": {
+      "primary": "#007A33",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "portugal",
+    "name": "Portugal",
+    "code": "POR",
+    "group": "K",
+    "flag": "🇵🇹",
+    "colors": {
+      "primary": "#006600",
+      "secondary": "#FF0000",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "colombia",
+    "name": "Colombia",
+    "code": "COL",
+    "group": "K",
+    "flag": "🇨🇴",
+    "colors": {
+      "primary": "#FCD116",
+      "secondary": "#003893",
+      "text": "#003893"
+    }
+  },
+  {
+    "id": "uzbekistan",
+    "name": "Uzbekistan",
+    "code": "UZB",
+    "group": "K",
+    "flag": "🇺🇿",
+    "colors": {
+      "primary": "#1EB53A",
+      "secondary": "#0099B5",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "intercon-playoff-1",
+    "name": "Intercon. Playoff",
+    "code": "TBD",
+    "group": "K",
+    "flag": "🏳️",
+    "placeholder": true,
+    "possibleTeams": [
+      "Jamaica",
+      "DR Congo",
+      "New Caledonia"
+    ],
+    "colors": {
+      "primary": "#888888",
+      "secondary": "#CCCCCC",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "england",
+    "name": "England",
+    "code": "ENG",
+    "group": "L",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#002366",
+      "text": "#002366"
+    }
+  },
+  {
+    "id": "croatia",
+    "name": "Croatia",
+    "code": "CRO",
+    "group": "L",
+    "flag": "🇭🇷",
+    "colors": {
+      "primary": "#FF0000",
+      "secondary": "#FFFFFF",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "panama",
+    "name": "Panama",
+    "code": "PAN",
+    "group": "L",
+    "flag": "🇵🇦",
+    "colors": {
+      "primary": "#DA121A",
+      "secondary": "#005EB8",
+      "text": "#FFFFFF"
+    }
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "code": "GHA",
+    "group": "L",
+    "flag": "🇬🇭",
+    "colors": {
+      "primary": "#006B3F",
+      "secondary": "#FCD116",
+      "text": "#FFFFFF"
+    }
+  }
+]

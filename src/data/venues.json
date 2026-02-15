@@ -1,0 +1,130 @@
+[
+  {
+    "id": "mexico-city",
+    "name": "Mexico City Stadium",
+    "officialName": "Estadio Azteca",
+    "city": "Mexico City",
+    "country": "Mexico",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": "guadalajara",
+    "name": "Estadio Guadalajara",
+    "officialName": "Estadio Akron",
+    "city": "Guadalajara",
+    "country": "Mexico",
+    "timezone": "America/Mexico_City"
+  },
+  {
+    "id": "monterrey",
+    "name": "Estadio Monterrey",
+    "officialName": "Estadio BBVA",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "timezone": "America/Monterrey"
+  },
+  {
+    "id": "los-angeles",
+    "name": "Los Angeles Stadium",
+    "officialName": "SoFi Stadium",
+    "city": "Los Angeles",
+    "country": "USA",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": "san-francisco",
+    "name": "San Francisco Bay Area Stadium",
+    "officialName": "Levi's Stadium",
+    "city": "San Francisco",
+    "country": "USA",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": "seattle",
+    "name": "Seattle Stadium",
+    "officialName": "Lumen Field",
+    "city": "Seattle",
+    "country": "USA",
+    "timezone": "America/Los_Angeles"
+  },
+  {
+    "id": "dallas",
+    "name": "Dallas Stadium",
+    "officialName": "AT&T Stadium",
+    "city": "Dallas",
+    "country": "USA",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": "kansas-city",
+    "name": "Kansas City Stadium",
+    "officialName": "Arrowhead Stadium",
+    "city": "Kansas City",
+    "country": "USA",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": "houston",
+    "name": "Houston Stadium",
+    "officialName": "NRG Stadium",
+    "city": "Houston",
+    "country": "USA",
+    "timezone": "America/Chicago"
+  },
+  {
+    "id": "atlanta",
+    "name": "Atlanta Stadium",
+    "officialName": "Mercedes-Benz Stadium",
+    "city": "Atlanta",
+    "country": "USA",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "miami",
+    "name": "Miami Stadium",
+    "officialName": "Hard Rock Stadium",
+    "city": "Miami",
+    "country": "USA",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "philadelphia",
+    "name": "Philadelphia Stadium",
+    "officialName": "Lincoln Financial Field",
+    "city": "Philadelphia",
+    "country": "USA",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "boston",
+    "name": "Boston Stadium",
+    "officialName": "Gillette Stadium",
+    "city": "Boston",
+    "country": "USA",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "new-york-nj",
+    "name": "New York New Jersey Stadium",
+    "officialName": "MetLife Stadium",
+    "city": "New York/New Jersey",
+    "country": "USA",
+    "timezone": "America/New_York"
+  },
+  {
+    "id": "toronto",
+    "name": "Toronto Stadium",
+    "officialName": "BMO Field",
+    "city": "Toronto",
+    "country": "Canada",
+    "timezone": "America/Toronto"
+  },
+  {
+    "id": "vancouver",
+    "name": "BC Place Vancouver",
+    "officialName": "BC Place",
+    "city": "Vancouver",
+    "country": "Canada",
+    "timezone": "America/Vancouver"
+  }
+]
